@@ -40,8 +40,6 @@ i)Dealing with Bugs and Technical Debt.It is overcome through thorough testing b
 ii)Debugging and Troubleshooting Issues. It is overcome by mplement comprehensive logging and monitoring systems to track software performance in real-time. Tools like LogRocket, New Relic, or Sentry can help identify issues and alert developers to problems as they occur.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 it is the practice of designing, refining, and optimizing the inputs (prompts) given to AI models, especially natural language models like GPT, to produce the most relevant, accurate, and useful outputs.
